@@ -6,9 +6,7 @@
 // @author       MAD - MarshAfterDark (mB)
 // @match        https://www.hulu.com/watch/*
 // @homepageURL  https://github.com/mB-CodeBox/UserScripts
-// @source       https://github.com/mB-CodeBox/UserScripts/edit/main/Hulu%20Video%20UI%20Manager.user.js
-// @downloadURL  https://github.com/mB-CodeBox/UserScripts/edit/main/Hulu%20Video%20UI%20Manager.user.js
-// @updateURL    https://github.com/mB-CodeBox/UserScripts/edit/main/Hulu%20Video%20UI%20Manager.user.js
+// @source       https://github.com/mB-CodeBox/UserScripts/raw/refs/heads/main/Hulu%20Video%20UI%20Manager.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // ==/UserScript==
