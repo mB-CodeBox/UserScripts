@@ -1,11 +1,14 @@
 // ==UserScript==
-// @name         Hide Hulu Fliptray Gradient
+// @name         Hide Hulu Tray Gradient
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Hides the gradient overlay on Hulu video player
-// @author       You
-// @match        https://www.hulu.com/*
-// @grant        none
+// @description  Hide Hulu Tray Gradient
+// @author       MAD - MarshAfterDark (mB)
+// @match        https://www.hulu.com/watch/*
+// @homepageURL  https://github.com/mB-CodeBox/UserScripts
+// @source       https://github.com/mB-CodeBox/UserScripts/raw/refs/heads/main/Hide%20Hulu%20Fliptray%20Gradient.user.js
+// @grant        GM_setValue
+// @grant        GM_getValue
 // ==/UserScript==
 
 (function() {
