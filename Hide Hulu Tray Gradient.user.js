@@ -6,7 +6,7 @@
 // @author       MAD - MarshAfterDark (mB)
 // @match        https://www.hulu.com/watch/*
 // @homepageURL  https://github.com/mB-CodeBox/UserScripts
-// @source       https://github.com/mB-CodeBox/UserScripts/raw/refs/heads/main/Hide%20Hulu%20Fliptray%20Gradient.user.js
+// @source       https://github.com/mB-CodeBox/UserScripts/raw/refs/heads/main/Hide%20Hulu%20Tray%20Gradient.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // ==/UserScript==
