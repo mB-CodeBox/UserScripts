@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         Hide Hulu Tray Gradient
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Hide Hulu Tray Gradient
 // @author       MAD - MarshAfterDark (mB)
-// @match        https://www.hulu.com/watch/*
+// @match        https://www.hulu.com/*
 // @homepageURL  https://github.com/mB-CodeBox/UserScripts
 // @source       https://github.com/mB-CodeBox/UserScripts/raw/refs/heads/main/Hide%20Hulu%20Tray%20Gradient.user.js
-// @grant        GM_setValue
-// @grant        GM_getValue
+// @grant        none
 // ==/UserScript==
 
 (function() {
